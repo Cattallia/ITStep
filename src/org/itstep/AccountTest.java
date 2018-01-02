@@ -32,6 +32,9 @@ public class AccountTest {
 		assertEquals(account.getSecondName(), buff.getSecondName());
 		assertEquals(account.getPassword(), buff.getPassword());
 		assertEquals(account.getEmail(), buff.getEmail());		
+		//TRUE CGECJ
+		//asd/asd
+		
 	}
 
 }
