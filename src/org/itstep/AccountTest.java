@@ -33,8 +33,7 @@ public class AccountTest {
 		assertEquals(account.getPassword(), buff.getPassword());
 		assertEquals(account.getEmail(), buff.getEmail());		
 		//TRUE CGECJ
-		//asd/asd
-		
+		//asd/asdRRRR
 	}
 
 }
